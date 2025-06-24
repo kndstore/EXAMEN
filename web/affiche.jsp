@@ -12,6 +12,7 @@
         <title>JSP Page</title>
     </head>
     <body>
+         <h1>السلام عليكم :</h1>
          <h2>Résultat :</h2>
     <p>${message}</p>
     <a href="index.html">Retour</a>
